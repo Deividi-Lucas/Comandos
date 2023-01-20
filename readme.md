@@ -1,51 +1,63 @@
 # Comandos para terminal Linux, Windows e Git 
+**Respositório para consulta e estudo.**
 
-### Linux 
+## Linux 
+##### Navegação
+* mkdir ➡️ para criar uma 'pasta/diretorio'
+* rmdir ➡️ para excluir uma 'pasta/diretorio'
+* rm ➡️ para excluir um arquivo
+* rm -r ➡️ para excluir diretório(pasta)
+* mv ➡️ para mover arquivo | e também funciona para renomear o arquivo
+* cd ➡️ Utilizado para movimentação de diretório(pastas)
+* man ➡️ Abre o manual do computador que pesquisar
+* ls -l ➡️ para visualizar o propriedades
+* ls ➡️ Para visualizar arquivo no diretorio
+##### Menu do computador
+* shutdown ➡️ para desligar o computador atravez do terminal
+* reboot ➡️ para reinicar o computador atravez do terminal
 
-mkdir- para criar uma 'pasta/diretorio'
-rmdir -para excluir uma 'pasta/diretorio'
-rm-para excluir um arquivo
-rm -r | para excluir diretório(pasta)
-touch- para criar um arquivo de qualquer tipo.
-mv- para mover arquivo | e também funciona para renomear o arquivo
-cd- Utilizado para movimentação de diretório|pastas
-
-shutdown- para desligar o computador atravez do terminal
-reboot - para reinicar o computador atravez do terminal
-
-apt-get install (pacote) - para instalação de pacotes
-snap install (pacote) - para instalação de pacotes
+##### Gerenciador de pacotes
+* apt-get install (pacote) ➡️ para instalação de pacotes
+* apt-get remove (pacote) ➡️ para remoção de pacotes
+* apt-get upgrade (pacote) ➡️ para atualização de pacotes
+* snap install (pacote) ➡️ para instalação de pacotes
+* snap remove (pacote) ➡️ para remoção de pacotes
 
 
-passwd - para mudar a senha Root do SU su | sudo su - Entra no Root
+##### Modo Root
+* passwd ➡️ para mudar a senha Root 
+* sudo su ➡️ Entra no Root
 
-chown - altera o proprietário do arquivo, muito bom para quando não necessita de usuário root ( Exemplo: sudo chown deividi [arquivo] chgrp -
+##### Manipulador de arquivo
+* touch ➡️ para criar um arquivo de qualquer tipo.
+* chown ➡️ altera o proprietário do arquivo, muito bom para quando não necessita de usuário root ( Exemplo: sudo chown deividi [arquivo] chgrp -
 altera o grupo de um arquivo
+* nano ➡️ Editor de código
+* vim ➡️ Editor de código
+* code ➡️ (visual studio code) IDE
 
-w | who | last - comando usado para ver quem acessou o ssh
+##### Para comando de volume pelo terminal
 
-ls -l | para visualizar o proprietário
+* amixer -D pulse sset Master 50% ➡️ Controla volume master do computador
 
-= Para comando de volume pelo terminal
+##### Diversos 
 
-amixer -D pulse sset Master 50%
+* Para ler o comando de forma lenta colocar '| more'
+* w | who | last ➡️ comando usado para ver quem acessou o ssh
+* history - mostra o historico dos comandos passados 
 
-Para ler o comando de forma lenta colocar '| more'
-
-man | Abre o manual do computador que pesquisar
-
-
-### Windows 
-
-#Aqui colocarei todos comandos que é utilizo no windows
-
-shutdown -s -t 0 = Para desligar o computador imediatamente
-shutdown -r -t 0 = para reiinicar o computador imediatamente
-
-winget = para instalação de pacotes
-
-color = para alterar coloração das letras no terminal
-
-chocolatey - choco [opção] [arquivo] | para maior duvida acesse o site ( https://chocolatey.org/ )
+## Windows 
 
 
+##### Controle do computador
+* shutdown -s -t 0 ➡️ Para desligar o computador imediatamente
+* shutdown -r -t 0 ➡️ para reiinicar o computador imediatamente
+
+##### Gerenciador de pacotes 
+* winget ➡️ para instalação de pacotes
+* chocolatey - choco [opção] [arquivo] ➡️ para maior duvida acesse o site ( https://chocolatey.org/ )
+
+##### Diversos
+* color ➡️ para alterar coloração das letras no terminal
+* dir ➡️ para visualizar arquivos no diretório
+* tree ➡️ Mostra todos arquivos em pastas e subpastas
