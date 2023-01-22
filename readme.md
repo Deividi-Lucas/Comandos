@@ -40,11 +40,18 @@ altera o grupo de um arquivo
 
 * amixer -D pulse sset Master 50% ➡️ Controla volume master do computador
 
+##### Verificação na Rede
+* hostname - Mostra o nome da máquina
+* Ipconfig - Mostra ip da maquina entre outras informações como: MAC, broadcast, DNS, DHCP
+* Ping - teste para verificar rede e internet
+* Nmap - Analisador da rede
+
 ##### Diversos 
 
 * Para ler o comando de forma lenta colocar '| more'
 * w | who | last ➡️ comando usado para ver quem acessou o ssh
 * history - mostra o historico dos comandos passados 
+
 
 ## Windows 
 
