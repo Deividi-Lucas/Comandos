@@ -32,6 +32,7 @@
 * touch ➡️ para criar um arquivo de qualquer tipo.
 * chown ➡️ altera o proprietário do arquivo, muito bom para quando não necessita de usuário root ( Exemplo: sudo chown deividi [arquivo] chgrp -
 altera o grupo de um arquivo
+* chmod ➡️ Altera a Permissão de um arquivo, mais usado para arquivo que não são executavel ou sem leitura e gravação.
 * nano ➡️ Editor de código
 * vim ➡️ Editor de código
 * code ➡️ (visual studio code) IDE
