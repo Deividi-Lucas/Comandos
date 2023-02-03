@@ -69,3 +69,10 @@ altera o grupo de um arquivo
 * color ➡️ para alterar coloração das letras no terminal
 * dir ➡️ para visualizar arquivos no diretório
 * tree ➡️ Mostra todos arquivos em pastas e subpastas
+
+## GIT
+* git init ➡️ Para iniciar um repositório vazio( inicio de todo conteúdo novo)
+* git status ➡️ Para verificação da situação dos commites e programas que foram modificados
+* git add ➡️ Para adição 
+* git commit ➡️ para fazer uma nova versão
+* git push ➡️ para subir para o github
