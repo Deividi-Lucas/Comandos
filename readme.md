@@ -1,6 +1,6 @@
 # Comandos para terminal Linux, Windows e Git 
 **Respositório para consulta e estudo.**
-
+ 
 ## Linux 
 ##### Navegação
 * mkdir ➡️ para criar uma 'pasta/diretorio'
@@ -76,3 +76,7 @@ altera o grupo de um arquivo
 * git add ➡️ Para adição 
 * git commit ➡️ para fazer uma nova versão
 * git push ➡️ para subir para o github
+* git log ➡️ Mostra histórico de commit
+* git show ➡️ Mostra as alterações feitas no código
+* git pull ➡️ Para puxar do arquivos do github
+* git clone ➡️ Clona repositório do github
