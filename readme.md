@@ -36,6 +36,7 @@ altera o grupo de um arquivo
 * nano ➡️ Editor de código
 * vim ➡️ Editor de código
 * code ➡️ (visual studio code) IDE
+* Gedit ➡️ Editor de código
 
 ##### Para comando de volume pelo terminal
 
