@@ -20,6 +20,8 @@ passwd - para mudar a senha Root do SU su | sudo su - Entra no Root
 chown - altera o proprietário do arquivo, muito bom para quando não necessita de usuário root ( Exemplo: sudo chown deividi [arquivo] chgrp - 
 altera o grupo de um arquivo
 
+hostnamectl set-hostname (NOME DA MÁQUINA) | Usado para mudar o nome da máquina pelo terminal
+
 w | who | last - comando usado para ver quem acessou o ssh
 
 ls -l | para visualizar o proprietário
