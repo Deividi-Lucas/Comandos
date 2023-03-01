@@ -44,6 +44,7 @@ altera o grupo de um arquivo
 
 ##### Verificação na Rede
 * hostname - Mostra o nome da máquina
+* hostnamectl set-hostname (NOME DA MÁQUINA) - Usado para alterar o nome da máquina pelo terminal 
 * Ipconfig - Mostra ip da maquina entre outras informações como: MAC, broadcast, DNS, DHCP
 * Ping - teste para verificar rede e internet
 * Nmap - Analisador da rede
