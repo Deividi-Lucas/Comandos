@@ -1,10 +1,10 @@
-#Aqui colocarei todos comandos que é utilizo no windows
+# Aqui colocarei todos comandos que é utilizo no windows
 
 shutdown -s -t 0 = Para desligar o computador imediatamente
 shutdown -r -t 0 = para reiinicar o computador imediatamente
 
 winget = para instalação de pacotes 
 
-color = para alterar coloração das letras no terminal
+color = para alterar coloração das letras no terminal 
 
 chocolatey - choco [opção] [arquivo] | para maior duvida acesse o site ( https://chocolatey.org/ )
