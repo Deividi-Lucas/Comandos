@@ -4,6 +4,7 @@
 
 - show databases;
 - create database nome;
+- create table name ( type varchar(255), othertype varchar(255));
 - drop database nome;
 - status
 - use nome;
